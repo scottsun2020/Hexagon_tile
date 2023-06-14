@@ -2,6 +2,8 @@
 
 Solve a 7 pieces Hexagon Tile Puzzle, which requires to place total 7 tiles from center to 6 sides and match the color on every adjacent tile using Recrsion
 
+![phpWAEUy4](https://github.com/scottsun2020/hexagon_tile/assets/59678188/8263abd1-a5de-48af-a70e-8c640bf3c3ab)
+
 # Sample Solution
 
 Solution #1----------------------------------
